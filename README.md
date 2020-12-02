@@ -3,7 +3,6 @@
 The Jupyter Notebook (<code>notebook.ipynb</code>) performs analytics and simple prediction of chances of getting admitted in a graduate school based on various factors. 
 
 
------
 ## Dataset
 The dataset is taken from Kaggle and can be found at https://www.kaggle.com/mohansacharya/graduate-admissions?select=Admission_Predict_Ver1.1.csv
 
